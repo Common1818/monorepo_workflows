@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - "backend/**"
+      - "app/backend/**"
       - ".github/workflows/backend.yml"
 
 jobs:
