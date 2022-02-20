@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  console.log('this is the update on client file')
+  console.log('this is the upda')
   return (
     <div className="App">
       <header className="App-header">
